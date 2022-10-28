@@ -1,2 +1,0 @@
-# RansomwareSite
-Ransomware web 
