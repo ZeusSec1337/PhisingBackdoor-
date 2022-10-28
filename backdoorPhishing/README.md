@@ -13,4 +13,6 @@ Saat menjalankannya, ia akan secara otomatis menginstal dependensi untuk eksekus
 Menggunakan BackdoorPhish untuk menyerang target tanpa persetujuan bersama sebelumnya adalah ilegal. 
 Pengguna  bertanggung jawab untuk mematuhi semua hukum lokal, negara bagian, dan federal yang berlaku. Pengembang tidak bertanggung jawab dan tidak bertanggung jawab atas penyalahgunaan atau kerusakan yang disebabkan oleh program ini. 
 
+![BackdoorPhishing](./images/BackdoorPhising.png)
+
 **Penggunaan secara eksklusif untuk tujuan pendidikan dan untuk membuat pengguna sadar.**
