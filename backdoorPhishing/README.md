@@ -2,7 +2,7 @@
 
 ![BackdoorPhishing](./images/banner.png)
 
-Alat Rekayasa Sosial [*Pembuat Pintu Backdoor Shell Terbaik untuk Windows/Android*] dengan Ngrok. 
+Alat Rekayasa Sosial [*Pembuat Backdoor Shell Terbaik untuk Windows/Android*] dengan Ngrok. 
 ## Fasilitas Jalankan sebagai root: 
 ```bash git clone https://github.com/ZeusSec1337/backdoorPhishing cd backdoorPhishing; chmod +x backdoorPhishing.sh ``` 
 Saat menjalankannya, ia akan secara otomatis menginstal dependensi untuk eksekusi yang benar. 
